@@ -2,6 +2,9 @@
 # Project Title
 
 A brief description of the project.
+Book I chose on data science
+##Book 
+https://r4ds.had.co.nz/)
 
 ## Author
 
