@@ -12,9 +12,8 @@ https://r4ds.had.co.nz/)
 
 ## Project URL
 
-You can access the project here: [Project URL
-##Book 
-https://r4ds.had.co.nz/)
+You can access the project here: [Project URL]
+
 
 ## License
 
