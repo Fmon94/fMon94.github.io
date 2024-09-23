@@ -5,11 +5,13 @@ A brief description of the project.
 
 ## Author
 
-- **fMon94.github.io** – [Geography 596](https://r4ds.had.co.nz/)
+- **fMon94.github.io** – [Geography 594](https://r4ds.had.co.nz/)
 
 ## Project URL
 
-You can access the project here: [Project URL](https://r4ds.had.co.nz/)
+You can access the project here: [Project URL
+##Book 
+https://r4ds.had.co.nz/)
 
 ## License
 
